@@ -1,3 +1,4 @@
+// bloodline array
 var bloodline_names = [
 	"Aberrant",
 	"Abyssal",
